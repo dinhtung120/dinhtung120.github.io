@@ -1,11 +1,9 @@
     h1 {
         color: blue;
-        text-align: center;
-        text-transform: uppercase;
+
     }
 
     p {
         color: black;
         text-align: justify;
-        text-transform: capitalize;
     }
