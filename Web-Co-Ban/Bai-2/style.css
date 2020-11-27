@@ -1,9 +1,8 @@
-    h1 {
-        color: blue;
-
-    }
-
-    p {
+    body {
         color: black;
         text-align: justify;
+        text-indent: 20px;;
+    }
+    .giua{
+        text-align: center;
     }
