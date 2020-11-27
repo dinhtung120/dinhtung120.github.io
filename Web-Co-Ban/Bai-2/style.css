@@ -1,8 +1,24 @@
     body {
         color: black;
         text-align: justify;
-        text-indent: 20px;;
+        margin-left: 50px;
+        margin-right: 25px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        
     }
     .giua{
         text-align: center;
     }
+    #canLe{
+        margin-left: 50px;
+    }
+    .doanVan{
+        text-indent: 25px;
+    }
+    .cuoi{
+        text-align: center;
+        margin-left: 400px;
+    }
+    
+    
