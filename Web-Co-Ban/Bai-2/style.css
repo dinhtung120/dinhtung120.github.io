@@ -1,7 +1,7 @@
     body {
         color: black;
         text-align: justify;
-        margin-left: 50px;
+        margin-left: 40px;
         margin-right: 25px;
         margin-top: 25px;
         margin-bottom: 25px;
@@ -21,6 +21,6 @@
         margin-left: 400px;
     }
     #tieuDe{
-        color: blue;
+        color: black;
     }
     
