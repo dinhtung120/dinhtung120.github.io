@@ -1,10 +1,18 @@
-img{
-    max-width: 55%;
+body{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 25px;
 }
 
+img{
+    max-width: 65%;
+    }
+
 .trangChu{
-    font-size: 1.3em;
-    margin-left: 66px;
+    font-size: 1.6em;
+    font-weight: bolder;
+    margin-left: 62px;    
 }
 
 a:link{
@@ -18,4 +26,29 @@ a:hover{
 }
 a:active{
     color: orangered;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.Back{
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: blue !important;
+}
+
+p{
+    font-size: 1.2em;
+    text-indent: 25px;
+    text-align: justify;
+}
+.link{
+    font-size: 1.2em;
 }
