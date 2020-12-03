@@ -1,0 +1,21 @@
+img{
+    max-width: 55%;
+}
+
+.trangChu{
+    font-size: 1.3em;
+    margin-left: 66px;
+}
+
+a:link{
+    color: blue;
+}
+a:visited{
+    color: gray;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: orangered;
+}
