@@ -52,3 +52,7 @@ p{
 .link{
     font-size: 1.2em;
 }
+
+.anh{
+    max-height: 250px;
+}
